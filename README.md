@@ -29,13 +29,13 @@ preflop game that is cohesive with their overall postflop strategy. There is a
 gap between their preflop and postflop plan. They aren't thinking about equity.
 
 <details>
- <summary>Example: K8o on Button</summary>
+ <summary>Example: `K8o` on Button</summary>
 <p>
 <i>Preflop</i>: Hero raise. BB calls.
 
-<i>Flop</i>: 9 :spades: 7 :diamonds: 3 :clubs: BB checks, Hero bets, BB calls
+<i>Flop</i>: `9:spades: 7:diamonds: 3:clubs:` BB checks, Hero bets, BB calls
 
-<i>Turn</i>: 2 :spades: BB checks again.
+<i>Turn</i>: `2:spades:` BB checks again.
 
 <b>Now it's complicated.</b>
 If we check - we'll inevitably go to showdown with a weak hand and we'll lose
@@ -51,9 +51,9 @@ spots - situations where there is simply nothing we can do right.
 
 #### **Choose hands that have good postflop equity.**
 
-1. Suited cards: A2s+, usually A2s-A5s better than A6s-A9s.
+1. Suited cards: `A2s+`, usually `A2s-A5s` better than `A6s-A9s`.
 2. High cards. With a top pair we usually have the best hand. If we miss we
 usually have six outs.
-3. Connecting cards: 57s, 67s.
+3. Connecting cards: `57s`, `67s`.
 
 
