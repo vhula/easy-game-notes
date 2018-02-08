@@ -33,9 +33,9 @@ gap between their preflop and postflop plan. They aren't thinking about equity.
 <p>
 <i>Preflop</i>: Hero raises. BB calls.
 
-<i>Flop</i>: <b>9:spades: 7:diamonds: 3:clubs:</b> BB checks, Hero bets, BB calls
+<i>Flop</i>: <b>9:spades: 7:diamonds: 3:clubs:</b> - BB checks, Hero bets, BB calls
 
-<i>Turn</i>: <b>2:spades:</b> BB checks again.
+<i>Turn</i>: <b>2:spades:</b> - BB checks again.
 
 <b>Now it's complicated.</b>
 If we check - we'll inevitably go to showdown with a weak hand and we'll lose
