@@ -11,7 +11,7 @@ There are only two major reasons for betting:
 1. Value - betting to get called (or raised) by a worse hand.
 2. Bluff - betting to get a better hand to fold.
 
-**Each time you're betting - ask yourself: WHY BET?**
+<font color="green">**Each time you're betting - ask yourself: WHY BET?**</font>
 
 3. Capitalization of Dead Money (DM) - making the opponent to fold, whether his hand better or worse, and collecting money in the pot.
 
@@ -20,3 +20,4 @@ There are only two major reasons for betting:
     * The Dead Money more than compensate for the times we are called and lose.
 
 ## Preflop Hand Ranges and Postflop equities
+
