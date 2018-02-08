@@ -29,11 +29,11 @@ preflop game that is cohesive with their overall postflop strategy. There is a
 gap between their preflop and postflop plan. They aren't thinking about equity.
 
 <details>
- <summary>Example: `K8o` on Button</summary>
+ <summary>Example: ```K8o``` on Button</summary>
 <p>
 <i>Preflop</i>: Hero raise. BB calls.
 
-<i>Flop</i>: `9:spades: 7:diamonds: 3:clubs:` BB checks, Hero bets, BB calls
+<i>Flop</i>: `9`:spades: `7`:diamonds: `3`:clubs: BB checks, Hero bets, BB calls
 
 <i>Turn</i>: `2:spades:` BB checks again.
 
