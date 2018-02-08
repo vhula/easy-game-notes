@@ -6,13 +6,12 @@
 
 ## The Reasons for Betting
 
-There are only two major reasons for betting:
+**Each time you're betting - ask yourself: WHY BET?**
+
+There are only two major reasons for betting (and one more):
 
 1. Value - betting to get called (or raised) by a worse hand.
 2. Bluff - betting to get a better hand to fold.
-
-<font color="green">**Each time you're betting - ask yourself: WHY BET?**</font>
-
 3. Capitalization of Dead Money (DM) - making the opponent to fold, whether his hand better or worse, and collecting money in the pot.
 
     * Make him fold his equity share in the pot (exception: if the villian is likely to bluff AND our hand is string enough to call a potential bluff).
