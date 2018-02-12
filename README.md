@@ -32,7 +32,7 @@ gap between their preflop and postflop plan. They aren't thinking about equity.
 <details>
  <summary>Example: <i>K8o</i> on Button</summary>
 <p>
-<i>Preflop</i>: Hero raises. BB calls.
+<i>Preflop</i> - Hero raises. BB calls.
 
 <i>Flop</i>: <b>9:spades:7:diamonds:3:clubs:</b> - BB checks, Hero bets, BB calls
 
@@ -67,3 +67,73 @@ Pot Equity + Fold Equity = Aggression
 
 Sometimes pot equity is so high that fold equity isn't important, e.g.:
 <b>Q:hearts:J:hearts:</b> on <b>T:hearts:9:hearts:2:clubs:4:diamonds:</b>
+
+The draw is so strong that we need our opponent to fold a very low persentage of
+time for a 2nd barrel to be profitable. On the other hand <b>22</b> on
+<b>843Ar</b> lacks of pot equity but is compensated by the fact that the
+opponent folds high persentage of the time.
+
+If we have <b>A:spades:5:spades:</b> on <b>9:spades:7:diamonds:3:clubs:T:spades:</b>:
+pot equity is good, but the turn card decreases our fold equity, as it hits
+the opponent's range.
+
+#### *Continue aggression if the pot equity and fold equity combination is sufficient*
+
+Sometimes it's better to check-raise instead of betting.
+
+1. It's unlikely that the opponent folds a strong hand. 
+
+<details>
+  <summary>E.g. hero holds <b>A:clubs:5:clubs:</b> on <b>8:clubs:7:clubs:4:hearts:</b>.</summary>
+<p>
+<i>Flop</i>: <b>8:clubs:7:clubs:4:hearts:</b> - Hero bets, opponent calls.
+
+He usually does not a powerful hand (<b>88, 77, 44, 65, 87</b>) as he would raise these hands.
+Most of his calling range probably includes hands like <b>T9</b>, <b>J9</b>, and <b>A5</b> for
+straight-draws; hands like <b>Q:clubs:T:clubs:</b> or <b>K:clubs:T:clubs:</b> for flush-draws,
+and hands like <b>AJ</b> or <b>KQ</b> that called simply with the intention of taking the pot
+away on the turn. 
+
+He holds: <i>straight-draws</i>, <i>flush-draws</i>, <i>pair+draws</i>, <i>weak pairs</i>, and <i>air</i>.
+
+</p>
+</details>
+
+2. It's likely that our opponent will bet a wide weak range on the turn. With his
+<i>straight-draws</i>, <i>flush-draws</i>, and <i>air</i> he's going to bet the
+vast majority of the time. He's likely to check <i>weak pairs</i> and <i>pair+draws</i>
+hands behind, as he'll probably wants to get to showdown.
+
+Therefore, if he bets the turn, the vast majority of his range is very weak, and
+now the pot is very large. So, this becomes a good time for us to check-raise
+the turn as a semibluff, and of course, for reason #3, capitalization of dead money.
+
+To compensate for tricky moves of our opponent(call with hands like <b>65</b>, etc)
+we need to make sure we have some equity before making this move. 
+Thus, <b>A:clubs:5:clubs:</b> on board <b>8:clubs:7:clubs:5:hearts:2:diamonds:</b>
+is perfect, as we have a ton of equity. <b>A:clubs:J:clubs:</b> would be fine as
+well. <b>K:diamonds:Q:hearts:</b> probably wouldn't be a good idea.
+
+#### *Board texture is critical in understanding when to bet and when to check-raise*
+
+If our opponent calls on a wet board, his range generally doesn't include moster
+hands like <i>sets</i>, <i>two pairs</i>, and <i>straights</i>. However, if our
+opponent calls on a dry board (<b>864r</b>) check-raising the turn gets significantly
+worse. With fewer draws available, a large portion of his turn-betting range  now
+includes slow-played <i>sets</i>, <i>two pairs</i>, <i>straights</i>
+
+With <b>A:clubs:5:clubs:</b> on <b>8:clubs:6:diamonds:2:hearts:2:clubs:</b>, I'd
+almost certainly bet the turn again and plan on folding to a raise as opposed to
+check-raising.
+
+#### *What factors affect our fold equity*
+
+1. **Player type.** This is by far the most significant factor in evaluating
+the fold equity. Against a bad player our fold equity is greatly reduced.
+2. **Board texture.** Overcards increase fold equity, but low cards and coordinating cards don’t.
+3. **Number of players.** More players - lower fold equity.
+4. **Image and Perceived Hand Range.** Tight, solid history - higher; loose,
+bluffy history - lower fold equity.
+
+Sometimes these reasons play against each other.
+
