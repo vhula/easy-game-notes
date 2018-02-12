@@ -3,10 +3,11 @@
 ## Table of contents
   * [The Reasons for Betting](#the-reasons-for-betting)
   * [Preflop Hand Ranges and Postflop equities](#preflop-hand-ranges-and-postflop-equities)
+  * [Aggression and the Turn](#aggression-and-the-turn)
 
 ## The Reasons for Betting
 
-#### **Each time you're betting - ask yourself: WHY BET?**
+#### *Each time you're betting - ask yourself: WHY BET?*
 
 There are only two major reasons for betting (and one more):
 
@@ -22,7 +23,7 @@ his hand better or worse, and collecting money in the pot.
 
 ## Preflop Hand Ranges and Postflop equities
 
-#### **Preflop is not vacuum. Think about equity of a hand before raising preflop.**
+#### *Preflop is not vacuum. Think about equity of a hand before raising preflop.*
 
 Most players lose money-without-showdown. They don't play a well-formulated
 preflop game that is cohesive with their overall postflop strategy. There is a 
@@ -56,4 +57,13 @@ spots - situations where there is simply nothing we can do right.
 usually have six outs.
 3. Connecting cards: `57s`, `67s`.
 
+## Aggression and the Turn
 
+#### *The combination of pot equity and fold equity is mandatory for us to stay aggressive on the turn.*
+
+```
+Pot Equity + Fold Equity = Aggression
+```
+
+Sometimes pot equity is so high that fold equity isn't important, e.g.:
+<i>Q:hearts:J:hearts:</i> on <b>T:hearts:9:hearts:2:clubs:4:diamonds:</b>
