@@ -34,7 +34,7 @@ gap between their preflop and postflop plan. They aren't thinking about equity.
 <p>
 <i>Preflop</i>: Hero raises. BB calls.
 
-<i>Flop</i>: <b>9:spades: 7:diamonds: 3:clubs:</b> - BB checks, Hero bets, BB calls
+<i>Flop</i>: <b>9:spades:7:diamonds:3:clubs:</b> - BB checks, Hero bets, BB calls
 
 <i>Turn</i>: <b>2:spades:</b> - BB checks again.
 
@@ -66,4 +66,4 @@ Pot Equity + Fold Equity = Aggression
 ```
 
 Sometimes pot equity is so high that fold equity isn't important, e.g.:
-<i>Q:hearts:J:hearts:</i> on <b>T:hearts:9:hearts:2:clubs:4:diamonds:</b>
+<b>Q:hearts:J:hearts:</b> on <b>T:hearts:9:hearts:2:clubs:4:diamonds:</b>
