@@ -91,7 +91,7 @@ Sometimes it's better to check-raise instead of betting.
 <p>
 <i>Flop</i>: <b>8:clubs:7:clubs:4:hearts:</b> - Hero bets, opponent calls.
 
-He usually does not a powerful hand (<b>88, 77, 44, 65, 87</b>) as he would
+He usually does not have a powerful hand (<b>88, 77, 44, 65, 87</b>) as he would
 raise these hands.
 Most of his calling range probably includes hands like <b>T9</b>, <b>J9</b>, 
 and <b>A5</b> for
