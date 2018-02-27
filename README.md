@@ -153,9 +153,42 @@ Most people make decision whether or not to call, raise, or fold baised on two
 main considerations:
 
 1. **Their cards.** Most players won't fold <b>AA</b> on a <b>JT9</b> board when
-facing a ton of action because they've got aces.
+facing a ton of action because they've got aces - even though they are
+relatively unlikely to be ahead.
 2. **The board texture.** <b>QQ</b> is likely to get in a lot of money as an
 overpair, but shuts down as soon as an <b>A</b> or a <b>K</b> falls.
 
 The size of the bet facing them, in most scenarios, is distant, distant third.
+
+When we're trying to get value bet bigger. We need to choose a bet size that
+makes us sure he is still likely to call with worse. This concept is called
+thin value.
+
+**Thin Value Betting** means making a bet to be called by worse hands,
+accepting that many better hands will also call the bet and understanding that
+the value obtained from worse hands will be more than the money lost to better
+hands. The "thinner" you bet the smaller your bet size should generally be.
+
+<details>
+ <summary>Example of Thin Value: Board is <b>T54J5</b></summary>
+<p>
+
+In all these situations we may bet for value because it's likely that we have
+the best hand.
+
+<i>We hold <b>JJ</b></i> - It's very easy to bet for value.
+
+<i>We hold <b>AT</b></i> - Some hands that are likely to call our bet are better
+(<b>AJ, KJ, QJ,</b> etc) and some are worse (<b>KT, QT, T9, T8</b>). The bet for
+value should be around 1/2 of pot.
+
+<i>We hold <b>T9</b></i> - There are very few hands that are worse that could
+potentially call a bet (<b>T8, 99, 88</b>). The bet for value ought to be very small,
+e.g. 1/5 of pot.
+
+We need to choose a bet size that makes us sure he is still likely to call with
+worse.
+
+</p>
+</details>
 
