@@ -31,26 +31,26 @@ Most players lose money-without-showdown. They don't play a well-formulated
 preflop game that is cohesive with their overall postflop strategy. There is a 
 gap between their preflop and postflop plan. They aren't thinking about equity.
 
-<details>
- <summary>Example: <i>K8o</i> on Button</summary>
-<p>
-<i>Preflop</i> - Hero raises. BB calls.
-
-<i>Flop</i>: <b>9:spades:7:diamonds:3:clubs:</b> - BB checks, Hero bets, BB calls
-
-<i>Turn</i>: <b>2:spades:</b> - BB checks again.
-
-<b>Now it's complicated.</b>
-If we check - we'll inevitably go to showdown with a weak hand and we'll lose
-a decent pot. Or we could bet, but the turn card isn't scary and he's unlikely
-to fold anything he called on the flop with.
-
-The real problem with the postflop spot starts all the way back preflop. We
-choose a hand with poor postflop equity and thus we walk into unprofitable
-spots - situations where there is simply nothing we can do right.
-
-</p>
-</details>
+> <details>
+>  <summary>Example: <i>K8o</i> on Button</summary>
+> <p>
+> <i>Preflop</i> - Hero raises. BB calls.
+> 
+> <i>Flop</i>: <b>9:spades:7:diamonds:3:clubs:</b> - BB checks, Hero bets, BB calls
+> 
+> <i>Turn</i>: <b>2:spades:</b> - BB checks again.
+> 
+> <b>Now it's complicated.</b>
+> If we check - we'll inevitably go to showdown with a weak hand and we'll lose
+> a decent pot. Or we could bet, but the turn card isn't scary and he's unlikely
+> to fold anything he called on the flop with.
+> 
+> The real problem with the postflop spot starts all the way back preflop. We
+> choose a hand with poor postflop equity and thus we walk into unprofitable
+> spots - situations where there is simply nothing we can do right.
+> 
+> </p>
+> </details>
 
 #### **Choose hands that have good postflop equity.**
 
@@ -86,24 +86,24 @@ Sometimes it's better to check-raise instead of betting.
 
 1. It's unlikely that the opponent folds a strong hand. 
 
-<details>
-  <summary>E.g. hero holds <b>A:clubs:5:clubs:</b> on <b>8:clubs:7:clubs:4:hearts:</b>.</summary>
-<p>
-<i>Flop</i>: <b>8:clubs:7:clubs:4:hearts:</b> - Hero bets, opponent calls.
-
-He usually does not have a powerful hand (<b>88, 77, 44, 65, 87</b>) as he would
-raise these hands.
-Most of his calling range probably includes hands like <b>T9</b>, <b>J9</b>, 
-and <b>A5</b> for
-straight-draws; hands like <b>Q:clubs:T:clubs:</b> or <b>K:clubs:T:clubs:</b>
-for flush-draws, and hands like <b>AJ</b> or <b>KQ</b> that called simply with
-the intention of taking the pot away on the turn. 
-
-He holds: <i>straight-draws</i>, <i>flush-draws</i>, <i>pair+draws</i>,
-<i>weak pairs</i>, and <i>air</i>.
-
-</p>
-</details>
+> <details>
+>   <summary>E.g. hero holds <b>A:clubs:5:clubs:</b> on <b>8:clubs:7:clubs:4:hearts:</b>.</summary>
+> <p>
+> <i>Flop</i>: <b>8:clubs:7:clubs:4:hearts:</b> - Hero bets, opponent calls.
+> 
+> He usually does not have a powerful hand (<b>88, 77, 44, 65, 87</b>) as he would
+> raise these hands.
+> Most of his calling range probably includes hands like <b>T9</b>, <b>J9</b>, 
+> and <b>A5</b> for
+> straight-draws; hands like <b>Q:clubs:T:clubs:</b> or <b>K:clubs:T:clubs:</b>
+> for flush-draws, and hands like <b>AJ</b> or <b>KQ</b> that called simply with
+> the intention of taking the pot away on the turn. 
+> 
+> He holds: <i>straight-draws</i>, <i>flush-draws</i>, <i>pair+draws</i>,
+> <i>weak pairs</i>, and <i>air</i>.
+> 
+> </p>
+> </details>
 
 2. It's likely that our opponent will bet a wide weak range on the turn. With his
 <i>straight-draws</i>, <i>flush-draws</i>, and <i>air</i> he's going to bet the
@@ -169,26 +169,25 @@ accepting that many better hands will also call the bet and understanding that
 the value obtained from worse hands will be more than the money lost to better
 hands. The "thinner" you bet the smaller your bet size should generally be.
 
-<details>
- <summary>Example of Thin Value: Board is <b>T54J5</b></summary>
-<p>
-
-In all these situations we may bet for value because it's likely that we have
-the best hand.
-
-<i>We hold <b>JJ</b></i> - It's very easy to bet for value.
-
-<i>We hold <b>AT</b></i> - Some hands that are likely to call our bet are better
-(<b>AJ, KJ, QJ,</b> etc) and some are worse (<b>KT, QT, T9, T8</b>). The bet for
-value should be around 1/2 of pot.
-
-<i>We hold <b>T9</b></i> - There are very few hands that are worse that could
-potentially call a bet (<b>T8, 99, 88</b>). The bet for value ought to be very small,
-e.g. 1/5 of pot.
-
-We need to choose a bet size that makes us sure he is still likely to call with
-worse.
-
-</p>
-</details>
+> <details>
+> <summary>Example of Thin Value: Board is <b>T54J5</b></summary>
+> <p>
+> In all these situations we may bet for value because it's likely that we have
+> the best hand.
+> 
+> <i>We hold <b>JJ</b></i> - It's very easy to bet for value.
+> 
+> <i>We hold <b>AT</b></i> - Some hands that are likely to call our bet are better
+> (<b>AJ, KJ, QJ,</b> etc) and some are worse (<b>KT, QT, T9, T8</b>). The bet for
+> value should be around 1/2 of pot.
+> 
+> <i>We hold <b>T9</b></i> - There are very few hands that are worse that could
+> potentially call a bet (<b>T8, 99, 88</b>). The bet for value ought to be very small,
+> e.g. 1/5 of pot.
+> 
+> We need to choose a bet size that makes us sure he is still likely to call with
+> worse.
+> 
+> </p>
+> </details>
 
