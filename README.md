@@ -191,3 +191,7 @@ hands. The "thinner" you bet the smaller your bet size should generally be.
 > </p>
 > </details>
 
+Value betting is the way to beat poker.  The more value we can squeeze out of
+hands that are likely ahead, the more money we’re going to make in the long run.
+Understanding how to change your value bet sizes depending on the “thinness” of
+your bet will help you get the maximum amount of value with your entire range
