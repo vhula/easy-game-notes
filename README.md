@@ -19,9 +19,9 @@ There are only two major reasons for betting (and one more):
 his hand better or worse, and collecting money in the pot.
 
     * Make him fold his equity share in the pot (exception: if the villian is
-    likely to bluff AND our hand is string enough to call a potential bluff).
+    likely to bluff AND our hand is strong enough to call a potential bluff).
  
-    * The Dead Money more than compensate for the times we are called and lose.
+    * The Dead Money more than compensates for the times we are called and lose.
 
 ## Preflop Hand Ranges and Postflop equities
 
@@ -84,7 +84,7 @@ the opponent's range.
 
 Sometimes it's better to check-raise instead of betting.
 
-1. It's unlikely that the opponent folds a strong hand. 
+1. It's unlikely that the opponent holds a strong hand. 
 
 > <details>
 >   <summary>E.g. hero holds <b>A:clubs:5:clubs:</b> on <b>8:clubs:7:clubs:4:hearts:</b>.</summary>
@@ -124,7 +124,7 @@ well. <b>K:diamonds:Q:hearts:</b> probably wouldn't be a good idea.
 
 #### *Board texture is critical in understanding when to bet and when to check-raise*
 
-If our opponent calls on a wet board, his range generally doesn't include moster
+If our opponent calls on a wet board, his range generally doesn't include monster
 hands like <i>sets</i>, <i>two pairs</i>, and <i>straights</i>. However, if our
 opponent calls on a dry board (<b>864r</b>) check-raising the turn gets
 significantly
@@ -149,7 +149,7 @@ Sometimes these reasons play against each other.
 
 ## Bet Sizing and Thin Value
 
-Most people make decision whether or not to call, raise, or fold baised on two
+Most people make decision whether or not to call, raise, or fold based on two
 main considerations:
 
 1. **Their cards.** Most players won't fold <b>AA</b> on a <b>JT9</b> board when
