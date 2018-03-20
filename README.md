@@ -6,6 +6,7 @@
   * [Preflop Hand Ranges and Postflop equities](#preflop-hand-ranges-and-postflop-equities)
   * [Aggression and the Turn](#aggression-and-the-turn)
   * [Bet Sizing and Thin Value](#bet-sizing-and-thin-value)
+  * [Player Identification and Basic Handreading](#player-identification-and-basic-handreading)
 
 ## The Reasons for Betting
 
@@ -195,3 +196,83 @@ Value betting is the way to beat poker.  The more value we can squeeze out of
 hands that are likely ahead, the more money we’re going to make in the long run.
 Understanding how to change your value bet sizes depending on the “thinness” of
 your bet will help you get the maximum amount of value with your entire range
+
+## Player Identification and Basic Handreading
+
+Player Identification - **Aggressive** or **Passive**:
+
+1. *Stack size*. If someone's sitting with less than a full buy-in at a table,
+and they're not a pro-shortstacker, they're usually **passive**.
+2. *Limping*. If someone calls a big blind preflop and doesn't open with a
+raise, they're **passive**. This usually applies both to preflop and postflop.
+3. *Minraising*. This is generally an indicator of a **passive** player who
+finally has something worth playing - especially when he minraises postflop.
+Additionally, a lot of players will minraise a wide range preflop and then
+play passively postflop.
+4. *Number of tables*. If someone is sitting at 6 tables with a full stack on
+every single one, they're probably **aggressive**. If somebody is sitting on
+only one or two tables, and they have limped, minraised, or not kept a full
+stack they're usually **passive**.
+5. *3-betting*. If somebody sitting on the left has 3-bet you often and
+consistently, they're usually **aggressive**. If somebody has 3-bet you only
+once or twice, and especially if they've made the 3-bet unusually small or
+unusually large, they're usually **passive**.
+
+<details>
+<summary>Player Identification Table</summary>
+<p>
+<table>
+ <tr>
+  <th></th>
+  <th>Yes</th>
+  <th>No</th>
+ </tr>
+ <tr>
+  <th>Stack Size Full</th>
+  <td>Aggressive</td>
+  <td>Passive</td>
+ </tr>
+ <tr>
+  <th>Limping</th>
+  <td>Passive</td>
+  <td>Aggressive</td>
+ </tr>
+ <tr>
+  <th>Minraising</th>
+  <td>Passive</td>
+  <td>Aggressive</td>
+ </tr>
+ <tr>
+  <th>Many Tables</th>
+  <td>Aggressive</td>
+  <td>Passive</td>
+ </tr>
+ <tr>
+  <th>3-betting</th>
+  <td>Aggressive</td>
+  <td>Passive</td>
+ </tr>
+</table>
+</p>
+</details>
+
+
+There are only three types of players:
+
+1) *Passive-bad*. This type of player calls all the time and only raises with
+an extremelly strong hand. Value bet them all the time and fold to a raise.
+2) *Aggressive-bad*. This type of player still calls all the time, but they
+sometimes make raises or bets that are inconsistent with any kind of strong
+holding. A great example is the flop donk-bet.
+3) *Aggressive-good*. This player plays aggressively, bluffing and value betting
+in appropriate spots. They balance their ranges and pose a lot of problems both
+preflop and postflop for their opponents.
+
+Both *passive-bad* and *aggressive-bad* tend to make big calls, and thus
+bluffing them is, in general, a bad strategy.
+
+**The plan for each type of bad
+player is simple - against a *passive-bad* player, we value bet them and we
+don't make big calls. Against an *aggressive-bad* player, we value bet them and
+we do make big calls.**
+
