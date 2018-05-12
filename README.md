@@ -7,6 +7,8 @@
   * [Aggression and the Turn](#aggression-and-the-turn)
   * [Bet Sizing and Thin Value](#bet-sizing-and-thin-value)
   * [Player Identification and Basic Handreading](#player-identification-and-basic-handreading)
+  * [Isolation theory](#isolation-theory)
+  * [Table Dynamics](#table-dynamics)
 
 ## The Reasons for Betting
 
@@ -275,4 +277,27 @@ bluffing them is, in general, a bad strategy.
 player is simple - against a *passive-bad* player, we value bet them and we
 don't make big calls. Against an *aggressive-bad* player, we value bet them and
 we do make big calls.**
+
+## Isolation theory
+
+**Isolation**: To raise preflop in order to play a pot with particular player
+or players.
+
+Isolation is predicted on three advantages:
+
+1) Card Advantage;
+2) Positional Advantage;
+3) Skill Advantage.
+
+<b>
+Playing a pot in position against a bad player is worth the risk of playing
+OOP with K4s hand, while playing a pot in position with J7s against a bunch of
+really good players isn't worth very much at all.
+</b>
+
+<b>
+We need to be constantly thinking of who we’re intending to play pots against.
+</b>
+
+## Table Dynamics
 
