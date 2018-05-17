@@ -301,3 +301,23 @@ We need to be constantly thinking of who we’re intending to play pots against.
 
 ## Table Dynamics
 
+Factors that determine table dynamics:
+
+1) Player types. We need to play tighter or looser depending on opponents on
+the left or right. For example, if there is whether an aggresive player or a
+shortstacker on the left then we need to play tighter; a big fish on the right -
+we play looser.
+2) Stack sizes. If there are many shorter stacked players hands like **33** and
+**67s** go down in value, as they lose implied odds. On the other side, hands
+like **KJ** and **AT** increase in value because they loose reverse implied
+odds.
+3) Positions. Having a good regular on the left and a fish on the right is
+very different than having a good regular on the right and a fish on the left.
+
+*Overall strategy*:
+**We want to do whatever we can to keep the fish in the pot.**
+
+Example: <i>Fish limps, a good regular raises on the button. We have <b>QJs</b>
+on the blinds. It will be a better decision to call a raise and let the fish to
+call also. 3-betting in this case will force a fish to fold and we will be
+heads-up with a good regular OOP.</i>
