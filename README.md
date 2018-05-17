@@ -9,6 +9,7 @@
   * [Player Identification and Basic Handreading](#player-identification-and-basic-handreading)
   * [Isolation theory](#isolation-theory)
   * [Table Dynamics](#table-dynamics)
+  * [Creative Preflop Raise Sizes](#creative-preflop-raise-sizes)
 
 ## The Reasons for Betting
 
@@ -321,3 +322,33 @@ Example: <i>Fish limps, a good regular raises on the button. We have <b>QJs</b>
 on the blinds. It will be a better decision to call a raise and let the fish to
 call also. 3-betting in this case will force a fish to fold and we will be
 heads-up with a good regular OOP.</i>
+
+## Creative Preflop Raise Sizes
+
+We can raise to one of three sizes:
+
+1) Pot. It's large enough that it gets money in the pot, creating dead money
+for profitable c-bets and putting stacks in play more easily. However, if our
+opponents are 3-betting us a lot their strategy will be successful if we are
+giving to much dead money. So, **by reducing our preflop raise size we 
+effectively hamper a light 3-bettor's strategy**. **We should reduce our raise
+size if there are good players playing back at us to collect dead money.**
+2) Less than pot. Shortstacks and good players are two good reasons to reduce
+your raise sizes.
+3) More than pot. Sometimes, it will be profitable to raise more than a pot
+against weak players who may play fit-or-fold postflop.
+
+*Changing raise sizes will not give away information about your hand if it's
+based only on information available to the table(not your cards) - which types
+of players are sitting in which seats with what stack sizes. This information is
+public.*
+
+Raise sizes are based on three factors:
+
+1) **Skill advantage**. We raise larger when we are better than our opponents.
+2) **Positional advantage**. We generally prefer to raise smaller when we are in
+position.
+3) **Stack size**. The shorter the stack size, the smaller we raise and vice
+versa.
+
+*We cannot use card advantage as a reason for raise size preflop*
