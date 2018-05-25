@@ -10,6 +10,7 @@
   * [Isolation theory](#isolation-theory)
   * [Table Dynamics](#table-dynamics)
   * [Creative Preflop Raise Sizes](#creative-preflop-raise-sizes)
+  * [Value Streets and Pot Management](#value-streets-and-pot-management)
 
 ## The Reasons for Betting
 
@@ -213,7 +214,7 @@ finally has something worth playing - especially when he minraises postflop.
 Additionally, a lot of players will minraise a wide range preflop and then
 play passively postflop.
 4. *Number of tables*. If someone is sitting at 6 tables with a full stack on
-every single one, they're probably **aggressive**. If somebody is sitting on
+every single one, they're probably **aggressive**. If somebody is sitting at
 only one or two tables, and they have limped, minraised, or not kept a full
 stack they're usually **passive**.
 5. *3-betting*. If somebody sitting on the left has 3-bet you often and
@@ -352,3 +353,23 @@ position.
 versa.
 
 *We cannot use card advantage as a reason for raise size preflop*
+
+## Value Streets and Pot Management
+
+Anytime we have a hand, there is a desired amount of value that we are trying
+to achieve. In any given spot we're trying to obtain between 0 and 3+ streets
+of value. This desired value may change from street to street. As a result,
+there are two different types of value:
+
+1) *Static Value*: This refers to the amount of value that we want on any given
+action. Thus, preflop with AA, we want 3+ streets of value. If we have **A2**
+on an **AQJ** board, we may decide we want 1 street of value on the flop, and
+then decide again that we want no more value on a **4** turn and a **9** river.
+2) *Dynamic Value*: This refers to the way that desired value changes
+throughout the course of a hand. **The ability to reevalueate value is what
+separates good players from bad players and prevents us from becoming "married"
+to a weak hand.**
+
+*Learning how desired value changes during each street in a hand is a difficult
+skill.*
+
