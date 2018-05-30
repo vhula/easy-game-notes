@@ -39,7 +39,7 @@ preflop game that is cohesive with their overall postflop strategy. There is a
 gap between their preflop and postflop plan. They aren't thinking about equity.
 
 > <details>
->  <summary>Example: <i>K8o</i> on Button</summary>
+>  <summary>Example: <b>K8o</b> on Button</summary>
 > <p>
 > <i>Preflop</i> - Hero raises. BB calls.
 > 
@@ -453,7 +453,7 @@ theory.
 > </p>
 > </details>
 
-What if we have <b>9:diamonds:9:hearts:</b> on an <b>A:clubs:8:clubs:8:spades</b>
+What if we have <b>9:diamonds:9:hearts:</b> on an <b>A:clubs:8:clubs:8:spades:</b>
 board? We're very likely to be outdrawn and we're unlikely to be called by a 
 worse hand. The ability to weigh these inclinations are what make somebody good
 at poker - it's why <b>KK</b> is a bet on an <b>A:spades:Q:spades:9:clubs:</b>
