@@ -11,6 +11,7 @@
   * [Table Dynamics](#table-dynamics)
   * [Creative Preflop Raise Sizes](#creative-preflop-raise-sizes)
   * [Value Streets and Pot Management](#value-streets-and-pot-management)
+  * [Showdown Theory](#showdown-theory)
 
 ## The Reasons for Betting
 
@@ -372,4 +373,88 @@ to a weak hand.**
 
 *Learning how desired value changes during each street in a hand is a difficult
 skill.*
+
+## Showdown Theory
+
+When we can't plausibly justify a bet for either reason #1 or reason #2, it's
+usually best to check.
+
+**When should I check behind?**
+
+1) You're unlikely to get called by a worse hand (or make a better hand to fold).
+2) You're unlikely to be outdrawn.
+
+**When should I bet?**
+
+1) You're likely to get called by a worse hand (you're still unlikely to make a
+better hand fold).
+2) You're likely to be outdrawn.
+
+Examples:
+
+> <details>
+> <summary><b>KK</b> on <b>A22r</b> flop</summary>
+> <p>
+> <table>
+>  <tr>
+>   <th></th>
+>   <th>Hero: KK</th>
+>   <th>BB: ??</th>
+>  </tr>
+>  <tr>
+>   <th>Preflop</th>
+>   <td>Raise</td>
+>   <td>Call</td>
+>  </tr>
+>  <tr>
+>   <th>Flop</th>
+>   <td>Check</td>
+>   <td><b>Check</b></td>
+>  </tr>
+> </table>
+> 
+> We can assume here that the big blind will never fold an Ace to a bet; and
+> second, that the big blind will never call with a hand worse than an Ace.
+> 
+> If we bet here and get called, we'll isolate ourselves with hands that beat
+> us. If we check, we continut to play against a wider range - and a range
+> that we're ahead of. This concept is called <b>range manipulation</b>.
+> </p>
+> </details>
+
+Understanding when to check behind and when to bet is the essence of showdown
+theory.
+
+> <details>
+> <summary><b>8:hearts:8:diamonds:</b> on <b>9:clubs:7:clubs:3:spades:</b> flop</summary>
+> <p>
+> <table>
+>  <tr>
+>   <th></th>
+>   <th>Hero: 88</th>
+>   <th>BB: ??</th>
+>  </tr>
+>  <tr>
+>   <th>Preflop</th>
+>   <td>Raise</td>
+>   <td>Call</td>
+>  </tr>
+>  <tr>
+>   <th>Flop</th>
+>   <td>Check</td>
+>   <td><b>Bet</b></td>
+>  </tr>
+> </table>
+> 
+> While our hand is very likely to be best, we're extremelly likely to be
+> outdrawn. This should incline us to bet. Also, we're confident to be called
+> by worse hands, including smaller pairs and draws.
+> </p>
+> </details>
+
+What if we have <b>9:diamonds:9:hearts:</b> on an <b>A:clubs:8:clubs:8:spades</b>
+board? We're very likely to be outdrawn and we're unlikely to be called by a 
+worse hand. The ability to weigh these inclinations are what make somebody good
+at poker - it's why <b>KK</b> is a bet on an <b>A:spades:Q:spades:9:clubs:</b>
+board but a check on an <b>A:clubs:3:hearts:2:spades:</b>.
 
