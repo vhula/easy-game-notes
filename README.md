@@ -12,6 +12,7 @@
   * [Creative Preflop Raise Sizes](#creative-preflop-raise-sizes)
   * [Value Streets and Pot Management](#value-streets-and-pot-management)
   * [Showdown Theory](#showdown-theory)
+  * [Monotone Boards and Equity](#monotone-boards-and-equity)
 
 ## The Reasons for Betting
 
@@ -458,3 +459,27 @@ worse hand. The ability to weigh these inclinations are what make somebody good
 at poker - it's why <b>KK</b> is a bet on an <b>A:spades:Q:spades:9:clubs:</b>
 board but a check on an <b>A:clubs:3:hearts:2:spades:</b>.
 
+## Monotone Boards and Equity
+
+Monotone boards are a tricky one. On the one hand, our opponents will have a lot
+of pair+draw hands that will call our value bets. On the other hand, all those
+hands have a lot of equity in general, so our value bets are inherently thinner.
+
+<i>A raise on a monotone board usually means an extremelly strong hand.</i>
+
+1) People don't call raises preflop with offsuit cards. On a
+<b>K:hearts:9:hearts:8:hearts:</b>, most decent players aren't raising their
+one-heart hand because they simply don't hold any.
+2) On a monotone board, the preflop raiser is likely to have a lot of equity.
+With black ace on a <b>K:hearts:9:hearts:8:hearts:</b>, we have decent equity.
+With <b>A:hearts:Q:spades:</b>, we have good equity. For this reason, people
+don't bluff boards like these - they're way to likely to have smashed the
+preflop raiser equity-wise.
+
+<i>Basically, we can expect somebody raising on a monotone board to have an
+extremely strong hand.</i>
+
+<i>Monotone boards are good places to make tough folds. They’re not, though,
+good places to make bluffs, because most players won’t be as good as we are at
+making those tough folds. Just count on our opponents making the mistake of
+calling too often and value bet them. </i>
